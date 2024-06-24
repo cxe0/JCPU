@@ -34,7 +34,6 @@ import java.util.logging.Level;
  */
 public class CPU
 {
-<<<<<<< HEAD
     /** Registers */
     private ProgramCounter programCounter;
     private Register8Bit stackPointer;
@@ -276,6 +275,5 @@ public class CPU
     public void addListener(CPUListener listener) {
         listeners.add(listener);
     }
-=======
->>>>>>> parent of 5127490 (first commit2)
+
 }

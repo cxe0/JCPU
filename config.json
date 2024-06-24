@@ -1,0 +1,12 @@
+[
+  {
+    "value": 0.0,
+    "name": "CycleRate",
+    "description": "How fast cycles should be executed"
+  },
+  {
+    "value": false,
+    "name": "Patching",
+    "description": "Enable patching of memory"
+  }
+]
